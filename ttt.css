@@ -1,0 +1,29 @@
+table td{
+    height:100px;
+    width:100px;
+}
+
+td:nth-of-type(2){
+    border-left:2px solid black;
+    border-right:2px solid black;
+}
+
+.first{
+    border-bottom:2px solid black;
+}
+
+.second{
+    border-bottom:2px solid black;
+}
+
+.third{
+    border-bottom:2px solid black;
+}
+
+h1{
+    text-align:center;
+}
+
+table{
+    margin:30px auto;
+}
